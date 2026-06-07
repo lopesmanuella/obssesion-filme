@@ -148,3 +148,15 @@ footer p{
     }
 
 }
+
+.personagem-nikki{
+    background-image: url("fotos/nikki.webp");
+    background-size: cover;
+    background-position: center;
+}
+
+.personagem-bear{
+    background-image: url("img/bear.jpg");
+    background-size: cover;
+    background-position: center;
+}
